@@ -1,7 +1,6 @@
 ### Hi there 👋
 My name is David, I'm a programming student from Sweden that is currently residing in Tokyo. You can check out my repositories here!
 こんにちは！　私はデイビッドと申します。　スヴェーデンから日本の東京に参りました！　こちらのページから私のプロジェクトをご覧になれます！
-現在は仕事探し中なので、採用している方からご連絡大歓迎です。
 
 <!--
 **davidwingqvist/davidwingqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
